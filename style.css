@@ -1,0 +1,14 @@
+.main-picture {
+    display: flex;
+    height: 400px;
+}
+.art-pic {
+    display: flex;
+    height: 200px;
+}
+footer {
+    display: flex;
+    width: 100%;
+    border: black solid 2px;
+    justify-content: space-between;
+}
